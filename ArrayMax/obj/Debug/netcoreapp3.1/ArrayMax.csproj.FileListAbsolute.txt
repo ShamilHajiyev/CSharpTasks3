@@ -12,3 +12,17 @@ C:\Users\user\Desktop\New folder\C#\ClassroomTasks\ArrayMax\ArrayMax\obj\Debug\n
 C:\Users\user\Desktop\New folder\C#\ClassroomTasks\ArrayMax\ArrayMax\obj\Debug\netcoreapp3.1\ArrayMax.dll
 C:\Users\user\Desktop\New folder\C#\ClassroomTasks\ArrayMax\ArrayMax\obj\Debug\netcoreapp3.1\ArrayMax.pdb
 C:\Users\user\Desktop\New folder\C#\ClassroomTasks\ArrayMax\ArrayMax\obj\Debug\netcoreapp3.1\ArrayMax.genruntimeconfig.cache
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\ArrayMax\ArrayMax\bin\Debug\netcoreapp3.1\ArrayMax.exe
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\ArrayMax\ArrayMax\bin\Debug\netcoreapp3.1\ArrayMax.deps.json
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\ArrayMax\ArrayMax\bin\Debug\netcoreapp3.1\ArrayMax.runtimeconfig.json
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\ArrayMax\ArrayMax\bin\Debug\netcoreapp3.1\ArrayMax.runtimeconfig.dev.json
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\ArrayMax\ArrayMax\bin\Debug\netcoreapp3.1\ArrayMax.dll
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\ArrayMax\ArrayMax\bin\Debug\netcoreapp3.1\ArrayMax.pdb
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\ArrayMax\ArrayMax\obj\Debug\netcoreapp3.1\ArrayMax.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\ArrayMax\ArrayMax\obj\Debug\netcoreapp3.1\ArrayMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\ArrayMax\ArrayMax\obj\Debug\netcoreapp3.1\ArrayMax.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\ArrayMax\ArrayMax\obj\Debug\netcoreapp3.1\ArrayMax.AssemblyInfo.cs
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\ArrayMax\ArrayMax\obj\Debug\netcoreapp3.1\ArrayMax.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\ArrayMax\ArrayMax\obj\Debug\netcoreapp3.1\ArrayMax.dll
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\ArrayMax\ArrayMax\obj\Debug\netcoreapp3.1\ArrayMax.pdb
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\ArrayMax\ArrayMax\obj\Debug\netcoreapp3.1\ArrayMax.genruntimeconfig.cache
